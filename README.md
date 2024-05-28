@@ -1,4 +1,4 @@
-# trash_data_vis
+# Marine Waste Visualization Platform in Norway
 
 This template should help get you started developing with Vue 3 in Vite.
 
